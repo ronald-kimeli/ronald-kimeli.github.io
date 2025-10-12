@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ronald-kimeli.github.io/sitemap.xml
